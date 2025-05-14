@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **NixSpawn/NixSpawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hey, I'm **NixSpawn**  
+`NixOS Evangelist` | `Gopher` | `FullStack Dev`  
+
+- 💻 Writing clean code in **Go** & **JavaScript/TypeScript**.
