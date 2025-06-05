@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hey, I'm **NixSpawn**  
+# 👋 Hey, I'm **Miguel**  
 `NixOS Evangelist` | `Gopher` | `FullStack Dev`  
 
 - 💻 Writing clean code in **Go** & **JavaScript/TypeScript**.
+
+![Nixspawn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nixspawn&theme=material-palenight&hide_border=true)
